@@ -29,7 +29,7 @@ require (
 	github.com/talos-systems/net v0.2.1-0.20210212213224-05190541b0fa
 	golang.org/x/sys v0.0.0-20210525143221-35b2ab0089ea
 	google.golang.org/genproto v0.0.0-20210524171403-669157292da3
-	google.golang.org/grpc v1.38.0
+	google.golang.org/grpc v1.39.0
 	google.golang.org/protobuf v1.26.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
